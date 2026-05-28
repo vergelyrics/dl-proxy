@@ -1,0 +1,8 @@
+{
+  "name": "dl-proxy-worker",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "dependencies": {
+    "node-id3": "^0.2.6"
+  }
+}
