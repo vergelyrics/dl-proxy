@@ -1,4 +1,4 @@
 name = "dl-proxy"
 main = "src/index.js"
-compatibility_date = "2024-09-20"
+compatibility_date = "2024-09-23"
 compatibility_flags = [ "nodejs_compat" ]
